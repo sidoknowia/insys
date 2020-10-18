@@ -1,4 +1,4 @@
-# insys
+# Insys
 Insys is Open Source IoT Platform that is being built for Manufacturing Industries
 
 
